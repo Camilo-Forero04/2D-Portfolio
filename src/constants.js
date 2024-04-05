@@ -1,7 +1,7 @@
 export const scaleFactor = 4;
 
 export const dialogueData = {
-    exit:`Thank you for taking your time and watching my portfolio, it was a pleasure, if you want to leave, then close the tab`,
+    exit:`Thank you for taking your time and watching my portfolio, it was a pleasure, if you want to leave, then close the tab.`,
     cv:`Here it's my cv, if you want to check it, then click <a href="https://drive.google.com/drive/u/0/folders/1CHFY8t9kWhxBc4YPOfffhH40zSyPPIQH" target="_blank">here.</a>`,
     projects:`Among my highlighted projects you can find a health <a href="https://github.com/Camilo-Forero04/Salud_webapp/tree/Develop%2BBRIAN" target="_blank"> web</a> app that I made with my partners and an enviromental social media web app that I have been working on with another group of people.`,
     computer:`This is the computer that I have been using to extend my knowledge about programming by making algorithms and projects if you want to contact me write to my email camiloforero401@gmail.com`,
